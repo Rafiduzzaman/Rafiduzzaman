@@ -6,12 +6,7 @@ Full Stack Web Developer
 
 Software Developer | Rails Enthusiast | Game Enthusiast
 
-Stack:
-* JavaScript
-* Ruby
-* Ruby on Rails
-* React
-* Redux
+Stack: JavaScript | Ruby | Ruby on Rails | React | Redux
 
 * 🌍  Location Dhaka, Bangladesh
 * 🖥️  See my portfolio at [MyPortfolio](http://rafiduzzaman.github.io/Portfolio/)

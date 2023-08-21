@@ -3,8 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Web Developer
 ------------------------
+👋 Hey there! I'm Md. Rafiduzzaman Nahin, a passionate Full Stack web developer on a continuous learning and growth journey. Currently honing my skills in Full Stack Web Development at Microverse, I'm dedicated to crafting seamless digital experiences from front-end to back-end.
 
-Software Developer | Rails Enthusiast | Game Enthusiast
+🚀 With a keen interest in all things tech, I thrive on the challenges that coding presents and the creative solutions it allows me to create. My toolbox includes HTML, CSS, Bootstrap, and JavaScript and I'm always eager to dive into new ones to expand my horizons.
+
+📚 When I'm not busy crafting code, you might catch me in another kind of coding — battling dragons and conquering virtual worlds on my trusty PC. Yes, I'm talking about those so-called "PC games." Who needs sunlight, right?
+
+🌐 Let's connect and collaborate! Feel free to explore my repositories and drop me a message. Together, we can turn lines of code into impactful solutions.
+
 
 Stack: JavaScript | Ruby | Ruby on Rails | React | Redux
 

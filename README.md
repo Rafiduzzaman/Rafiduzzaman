@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rafiduzzaman, a full-time full-stack web developer 👨‍💻 I'm dedicated to crafting seamless digital experiences from front-end to back-end</div>  
+### <div align="center">I'm Rafiduzzaman, a full-time full-stack web developer 👨‍💻 I'm dedicated to crafting seamless digital experiences with React and Ruby on Rails</div>  
   
 
 - 🔭 I’m currently solving challenges in [HackerRank](https://www.hackerrank.com/profile/rdzaman20000)  
